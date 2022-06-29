@@ -1189,9 +1189,9 @@
         },
         {
           "url": "guide/update-to-latest-version",
-          "titleCn": "升级到版本 13",
+          "titleCn": "升级到最新版",
           "title": "Update to Version 13",
-          "tooltipCn": "支持将你的应用升级到版本 13",
+          "tooltipCn": "支持将你的应用升级到最新版本",
           "tooltip": "Support to update your application to version 13"
         },
         {
@@ -2112,12 +2112,12 @@
     "prerelease": [
       "local"
     ],
-    "build": "sha.7d76b1fa9a",
+    "build": "sha.41c7c32b1e",
     "version": "14.1.0-local",
     "codeName": "snapshot",
     "isSnapshot": true,
-    "full": "14.1.0-local+sha.7d76b1fa9a",
+    "full": "14.1.0-local+sha.41c7c32b1e",
     "branch": "master",
-    "commitSHA": "7d76b1fa9a7d86ed0abef84f3f35873935b89a0b"
+    "commitSHA": "41c7c32b1edca2c8320932b7bc28a9eb1e1f3ab8"
   }
 }
