@@ -1634,83 +1634,83 @@
             },
             {
               "url": "errors/NG0100",
-              "title": "NG0100: Expression Changed After Checked",
-              "tooltip": "Expression Changed After Checked"
+              "title": "NG0100: Expression Changed After Checked\n\n检查后表达式又变化了",
+              "tooltip": "Expression Changed After Checked\n\n检查后表达式又变化了"
             },
             {
               "url": "errors/NG0200",
-              "title": "NG0200: Circular Dependency in DI",
-              "tooltip": "Circular Dependency in DI"
+              "title": "NG0200: Circular Dependency in DI\n\nDI 中的循环依赖",
+              "tooltip": "Circular Dependency in DI\n\nDI 中的循环依赖"
             },
             {
               "url": "errors/NG0201",
-              "title": "NG0201: No Provider Found",
-              "tooltip": "No Provider Found"
+              "title": "NG0201: No Provider Found\n\n未找到服务提供者",
+              "tooltip": "No Provider Found\n\n未找到服务提供者"
             },
             {
               "url": "errors/NG0203",
-              "title": "NG0203: `inject()` must be called from an injection context",
-              "tooltip": "`inject()` must be called from an injection context"
+              "title": "NG0203: `inject()` must be called from an injection context\n\n`inject()` 只能在注入上下文中调用",
+              "tooltip": "`inject()` must be called from an injection context\n\n`inject()` 只能在注入上下文中调用"
             },
             {
               "url": "errors/NG0300",
-              "title": "NG0300: Selector Collision",
-              "tooltip": "Selector Collision"
+              "title": "NG0300: Selector Collision\n\n选择器冲突",
+              "tooltip": "Selector Collision\n\n选择器冲突"
             },
             {
               "url": "errors/NG0301",
-              "title": "NG0301: Export Not Found",
-              "tooltip": "Export Not Found"
+              "title": "NG0301: Export Not Found\n\n导出未找到",
+              "tooltip": "Export Not Found\n\n导出未找到"
             },
             {
               "url": "errors/NG0302",
-              "title": "NG0302: Pipe Not Found",
-              "tooltip": "Pipe Not Found"
+              "title": "NG0302: Pipe Not Found\n\n管道未找到",
+              "tooltip": "Pipe Not Found\n\n管道未找到"
             },
             {
               "url": "errors/NG1001",
-              "title": "NG1001: Argument Not Literal",
-              "tooltip": "Argument Not Literal"
+              "title": "NG1001: Argument Not Literal\n\n参数不是字面量",
+              "tooltip": "Argument Not Literal\n\n参数不是字面量"
             },
             {
               "url": "errors/NG2003",
-              "title": "NG2003: Missing Token",
-              "tooltip": "Missing Token"
+              "title": "NG2003: Missing Token\n\n缺少令牌",
+              "tooltip": "Missing Token\n\n缺少令牌"
             },
             {
               "url": "errors/NG2009",
-              "title": "NG2009: Invalid Shadow DOM selector",
-              "tooltip": "Invalid Shadow DOM selector"
+              "title": "NG2009: Invalid Shadow DOM selector\n\n无效的 Shadow DOM 选择器",
+              "tooltip": "Invalid Shadow DOM selector\n\n无效的 Shadow DOM 选择器"
             },
             {
               "url": "errors/NG3003",
-              "title": "NG3003: Import Cycle Detected",
-              "tooltip": "Import Cycle Detected"
+              "title": "NG3003: Import Cycle Detected\n\n检测到循环导入",
+              "tooltip": "Import Cycle Detected\n\n检测到循环导入"
             },
             {
               "url": "errors/NG6100",
-              "title": "NG6100: NgModule.id Set to module.id anti-pattern",
-              "tooltip": "NgModule.id Set to module.id anti-pattern"
+              "title": "NG6100: NgModule.id Set to module.id anti-pattern\n\n反模式：NgModule.id 设置为 module.id",
+              "tooltip": "NgModule.id Set to module.id anti-pattern\n\n反模式：NgModule.id 设置为 module.id"
             },
             {
               "url": "errors/NG6999",
-              "title": "NG6999: Invalid metadata",
-              "tooltip": "Invalid metadata"
+              "title": "NG6999: Invalid metadata\n\n无效的元数据",
+              "tooltip": "Invalid metadata\n\n无效的元数据"
             },
             {
               "url": "errors/NG8001",
-              "title": "NG8001: Invalid Element",
-              "tooltip": "Invalid Element"
+              "title": "NG8001: Invalid Element\n\n无效的元素",
+              "tooltip": "Invalid Element\n\n无效的元素"
             },
             {
               "url": "errors/NG8002",
-              "title": "NG8002: Invalid Attribute",
-              "tooltip": "Invalid Attribute"
+              "title": "NG8002: Invalid Attribute\n\n无效的属性",
+              "tooltip": "Invalid Attribute\n\n无效的属性"
             },
             {
               "url": "errors/NG8003",
-              "title": "NG8003: Missing Reference Target",
-              "tooltip": "Missing Reference Target"
+              "title": "NG8003: Missing Reference Target\n\n引用的目标缺失",
+              "tooltip": "Missing Reference Target\n\n引用的目标缺失"
             }
           ]
         },
@@ -1726,13 +1726,13 @@
               "tooltipCn": "扩展诊断、它们是什么以及如何配置它们的概览。"
             },
             {
-              "title": "NG8101: Invalid Banana-in-Box",
-              "tooltip": "Invalid Banana-in-Box",
+              "title": "NG8101: Invalid Banana-in-Box\n\n无效的双向绑定语法",
+              "tooltip": "Invalid Banana-in-Box\n\n无效的双向绑定语法",
               "url": "extended-diagnostics/NG8101"
             },
             {
-              "title": "NG8102: Nullish coalescing not nullable",
-              "tooltip": "Nullish coalescing not nullable",
+              "title": "NG8102: Nullish coalescing not nullable\n\n空值合并运算符用于不可空变量",
+              "tooltip": "Nullish coalescing not nullable\n\n空值合并运算符用于不可空变量",
               "url": "extended-diagnostics/NG8102"
             }
           ],
@@ -2112,12 +2112,12 @@
     "prerelease": [
       "local"
     ],
-    "build": "sha.41c7c32b1e",
+    "build": "sha.8d82ba6820",
     "version": "14.1.0-local",
     "codeName": "snapshot",
     "isSnapshot": true,
-    "full": "14.1.0-local+sha.41c7c32b1e",
+    "full": "14.1.0-local+sha.8d82ba6820",
     "branch": "master",
-    "commitSHA": "41c7c32b1edca2c8320932b7bc28a9eb1e1f3ab8"
+    "commitSHA": "8d82ba68206ad5963241200a118b7c9107a3dfb7"
   }
 }

@@ -622,7 +622,7 @@
           },
           "jigsaw": {
             "desc": "Jigsaw provides a set of web components based on Angular. It is supporting the development of all applications of Big Data Product of ZTE (https://www.zte.com.cn).",
-            "descCn": "Jigsaw 提供了一组基于 Angular 的 Web 组件。它支持中兴通讯大数据产品（ <https://www.zte.com.cn> ）的所有应用程序的开发。",
+            "descCn": "Jigsaw 提供了一组基于 Angular 的 Web 组件。它支持中兴通讯大数据产品（<https://www.zte.com.cn>）的所有应用程序的开发。",
             "title": "Awade Jigsaw (Chinese)",
             "titleCn": "Awade Jigsaw（中文）",
             "url": "https://jigsaw-zte.gitee.io"
@@ -917,7 +917,7 @@
             "desc": "French language Angular content.",
             "descCn": "法语 Angular 内容。",
             "title": "Learn Angular (francais)",
-            "titleCn": "学习 Angular （法语）",
+            "titleCn": "学习 Angular（法语）",
             "url": "https://www.learn-angular.fr/"
           },
           "upgrading-ajs": {
@@ -1113,7 +1113,7 @@
             "desc": "Angular trainings delivered by Human Coders (France)",
             "descCn": "由人类编码员提供的 Angular 培训（法国）",
             "title": "Formation Angular (French)",
-            "titleCn": "编队 Angular （法语）",
+            "titleCn": "编队 Angular（法语）",
             "url": "https://www.humancoders.com/formations/angular"
           },
           "wao": {
